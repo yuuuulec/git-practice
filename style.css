@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    font-family: sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #333;
+}
+
+.status {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-left: 4px solid #007acc;
+}
+
+/* 練習用スタイル（必要に応じてここに追加していく） */
+.practice-area {
+    margin-top: 30px;
+}
